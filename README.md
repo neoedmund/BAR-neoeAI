@@ -4,7 +4,7 @@
 
 release:
 
--- rev.1 codename "prototype"
+- rev.2 codename "prototype"
 ```
 build something and don't fight.
 just to test working on both Linux and Windows.
