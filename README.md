@@ -1,8 +1,12 @@
 # BAR-neoeJavaAI
 
+Another AI written for open source RTS game named BAR. https://github.com/beyond-all-reason  |  https://www.beyondallreason.info/
 
+It's written in Java while run on the engine's C interface.
 
-release:
+need JDK16+ installed.
+
+## release:
 
 - rev.2 codename "prototype"
 ```
