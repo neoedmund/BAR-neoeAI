@@ -6,6 +6,12 @@ It's written in Java while run on the engine's C interface.
 
 need JDK16+ installed.
 
+Latest JDK can be downloaded from https://jdk.java.net/18/ .
+
+Unzip the released file `neoeBarAI.7z` to `BAR\data\engine\105.1.1-941-g941148f bar\AI\Skirmish\`
+
+Then neoeBarAI will show up in the list of AI's in the Lobby!
+
 ## Release:
 
 - ver0.2 codename "lizard"
