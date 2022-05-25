@@ -8,6 +8,11 @@ need JDK16+ installed.
 
 ## Release:
 
+- ver0.2 codename "lizard"
+```
+whatever it is. just release it before change to a better model.
+```
+  
 - rev.2 codename "prototype"
 ```
 build something and don't fight.
